@@ -1,4 +1,7 @@
-
+/***************************************************
+* file:     localisation.cpp
+* Author:  Tristan Brousseau-Rigaudi
+*/
 #include "localisation.h"
 #include <math.h>
 
