@@ -1,3 +1,8 @@
+/***************************************************
+* file:     main.cpp
+* Author:  Tristan Brousseau-Rigaudie
+*/
+
 #ifndef LOCALISATION_H
 #define LOCALISATION_H
 
