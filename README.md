@@ -4,7 +4,7 @@
 
 Le projet est composé de deux logiciels :
 
-+ [Un interface graphique faisant office de serveur](./interfaceGraphique) programmé à l'aide de *QT Creator* permettant l'affichage de la position. 
++ [Interface graphique faisant office de serveur](./interfaceGraphique) programmée à l'aide de *QT Creator* permettant l'affichage de la position. 
 
 + [Logiciel permettant la localisation](./localisationSoft) développé en C/C++ sur Linux.
 
