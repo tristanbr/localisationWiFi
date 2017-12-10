@@ -12,4 +12,4 @@ La localisation par empreinte a été utilisée avec l'algorithme des trois plus
 
 Un vidéo du fonctionnement est disponible sur *Youtube* : [Localisation Wi-fi](https://www.youtube.com/watch?v=xXlwC4nVunw).
 
-Pour plus d'information [un rapport détaillant la méthodologie est accessible](./doc/LocalisationWIFI_Rapport).
+Pour plus d'information [un rapport détaillant la méthodologie est accessible](./doc/LocalisationWIFI_Rapport.pdf).
